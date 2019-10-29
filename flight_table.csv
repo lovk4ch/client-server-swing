@@ -1,0 +1,3 @@
+flightId,flightCode,dispatchDate,dispatchCity,targetDate,targetCity
+1,113,"11.01.2017 00:00",Бишкек,"11.01.2017 06:00",Сидней
+2,500,"11.01.2017 01:00","Пункт А","11.01.2017 04:00","Пункт Б"
